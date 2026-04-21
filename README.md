@@ -44,7 +44,7 @@ Key capabilities:
 
 The diagram below illustrates the end-to-end event-driven flow of the pipeline.
 
-![Architecture Diagram](architecture/Project%20pic.jpg)
+![Architecture Diagram](<img width="1884" height="694" alt="image" src="https://github.com/user-attachments/assets/1f2f1e4e-de59-4937-8729-20a01258cb03" />)
 
 > **Flow:** EventBridge → Lambda (Extract) → S3 (Raw Landing Zone) → Snowflake (Staging → Analytics Table)
 
